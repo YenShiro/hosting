@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+/* codigo del menu */
+
+#menu {
+    background-color: #000;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    opacity: 0.8;
+    backdrop-filter: blur(8px);
+  }
+  #menu ul li {
+    display: inline-block;
+  }
+  #menu ul li a {
+    color: white;
+    display: block;
+    padding: 16px 60px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #menu ul li a:hover {
+    background-color: rgb(219, 202, 92);
+  }
+  
+  /* */
+  

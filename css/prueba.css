@@ -1,0 +1,86 @@
+body{
+    background-color: #464 ; padding: 150px;font-family: Arial, Helvetica, sans-serif;
+}   
+    #menu{
+        background-color: #000;
+    }
+    #menu{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    #menu ul li{
+        display: inline-block;
+    }
+    #menu ul li a{
+        color: white;
+        display: block;
+        padding: 16px 60px;
+        text-decoration: none;
+    }
+    #menu ul li a:hover{
+        background-color: rgb(145, 231, 145);
+    }
+    .div1{
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+            background-color: rgb(15, 21, 15);
+          
+    }
+
+    .box{
+        margin: 30px;
+        width: 100px;
+        height: 100px;
+        background-color: rebeccapurple;
+        rotate: 20px;
+    }
+
+    .div2{
+        width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+            background-color: rgb(15, 21, 15);
+    }
+    .div3{
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        background-color: rgb(15, 21, 15);
+      
+}
+
+.div4{
+    width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        background-color: rgb(15, 21, 15);
+}.div5{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(15, 21, 15);
+  
+}
+
+.div6{
+width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(15, 21, 15);
+}
+    .contenedor{
+        display: flex;
+    }
+
+    .copyright{
+align-items: center;
+justify-content: center;
+    }
